@@ -27,4 +27,4 @@ This plugin is required by other plugins, which uses its libraries and its setti
 == Changelog ==
 
 = 0.1 - 2013-09-20 =
-* First release
+* First release.
